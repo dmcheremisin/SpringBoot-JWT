@@ -11,6 +11,7 @@
 		<module>basic.security</module>
 		<module>jwt</module>
 		<module>jdbc</module>
+		<module>jdbc.custom.schema</module>
 	</modules>
 
 	<properties>

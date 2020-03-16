@@ -10,8 +10,9 @@
 	<modules>
 		<module>basic.security</module>
 		<module>jwt</module>
-		<module>jdbc</module>
+		<module>jdbc.basic.schema</module>
 		<module>jdbc.custom.schema</module>
+		<module>jpa.security</module>
 	</modules>
 
 	<properties>

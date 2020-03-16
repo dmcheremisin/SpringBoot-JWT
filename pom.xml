@@ -10,6 +10,7 @@
 	<modules>
 		<module>basic.security</module>
 		<module>jwt</module>
+		<module>jdbc</module>
 	</modules>
 
 	<properties>

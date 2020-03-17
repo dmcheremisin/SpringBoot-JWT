@@ -13,7 +13,8 @@
 		<module>jdbc.basic.schema</module>
 		<module>jdbc.custom.schema</module>
 		<module>jpa.security</module>
-	</modules>
+        <module>ldap.security</module>
+    </modules>
 
 	<properties>
 		<java.version>11</java.version>

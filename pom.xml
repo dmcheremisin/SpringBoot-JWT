@@ -15,6 +15,7 @@
 		<module>jpa.security</module>
         <module>ldap.security</module>
         <module>oauth</module>
+		<module>keycloak</module>
     </modules>
 
 	<properties>
